@@ -6,6 +6,7 @@ using UnityEngine.AI;
 
 public class Bullet : MonoBehaviour
 {
+//Cooment
     private Transform target;
     public float speed = 100f;
     public float slowSpeed = 1f;
